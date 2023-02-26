@@ -6,4 +6,6 @@ Website Membership Screen
 
 Advanced animation technologies with HTML5 and CSS3
 
-<h2> Screenshot Gif <h2>
+<h2> Screen Gif <h2>
+
+![](screen.gif)
